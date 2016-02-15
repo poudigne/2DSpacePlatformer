@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 480b21014a03c6a439c9d7762e1d5023
+timeCreated: 1455547357
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: playerSprite_idle_01
+    21300002: playerSprite_idle_02
+    21300004: playerSprite_idle_03
+    21300006: playerSprite_idle_04
+    21300008: playerSprite_walk_01
+    21300010: playerSprite_walk_02
+    21300012: playerSprite_walk_03
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: playerSprite_idle_01
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 52
+        width: 70
+        height: 197
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 68}
+        - {x: -35, y: 52}
+        - {x: -35, y: 15}
+        - {x: -18, y: 1}
+        - {x: 19, y: 1}
+        - {x: 35, y: 18}
+        - {x: 35, y: 53}
+        - {x: 30, y: 68}
+      - - {x: -31, y: 197}
+        - {x: -35, y: 187}
+        - {x: -35, y: 53}
+        - {x: -29, y: 53}
+        - {x: 35, y: 59}
+        - {x: 35, y: 193}
+        - {x: 22, y: 197}
+    - name: playerSprite_idle_02
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 57
+        width: 72
+        height: 195
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 195}
+        - {x: -25, y: 195}
+        - {x: -36, y: 178}
+        - {x: -36, y: 13}
+        - {x: -27, y: 1}
+        - {x: -23, y: 0}
+        - {x: 27, y: 0}
+        - {x: 36, y: 14}
+        - {x: 36, y: 182}
+        - {x: 27, y: 194}
+    - name: playerSprite_idle_03
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 62
+        width: 72
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 188}
+        - {x: -35, y: 9}
+        - {x: -25, y: 0}
+        - {x: 28, y: 0}
+        - {x: 36, y: 2}
+        - {x: 36, y: 188}
+    - name: playerSprite_idle_04
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 67
+        width: 69
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 183}
+        - {x: -34.5, y: 166}
+        - {x: -34.5, y: 15}
+        - {x: -26.5, y: 0}
+        - {x: 34.5, y: 0}
+        - {x: 34.5, y: 183}
+    - name: playerSprite_walk_01
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 56
+        width: 86
+        height: 194
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 194}
+        - {x: -28, y: 178}
+        - {x: -41, y: 104}
+        - {x: -43, y: 81}
+        - {x: -43, y: 50}
+        - {x: -41, y: 50}
+        - {x: -39, y: 15}
+        - {x: -21, y: 0}
+        - {x: 24, y: 0}
+        - {x: 43, y: 9}
+        - {x: 43, y: 194}
+    - name: playerSprite_walk_02
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 49
+        width: 87
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 65}
+        - {x: -43.5, y: 55}
+        - {x: -43.5, y: 16}
+        - {x: -32.5, y: 4}
+        - {x: -24.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 26.5, y: 7}
+        - {x: 27.5, y: 11}
+        - {x: 27.5, y: 65}
+      - - {x: -23.5, y: 200}
+        - {x: -29.5, y: 186}
+        - {x: -43.5, y: 99}
+        - {x: -43.5, y: 57}
+        - {x: 29.5, y: 57}
+        - {x: 43.5, y: 129}
+        - {x: 43.5, y: 183}
+        - {x: 35.5, y: 200}
+    - name: playerSprite_walk_03
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 45
+        width: 93
+        height: 205
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: 65}
+        - {x: -46.5, y: 55}
+        - {x: -46.5, y: 16}
+        - {x: -35.5, y: 4}
+        - {x: -27.5, y: 0}
+        - {x: 7.5, y: 0}
+        - {x: 23.5, y: 7}
+        - {x: 24.5, y: 11}
+        - {x: 24.5, y: 65}
+      - - {x: 30.5, y: 205}
+        - {x: -7.5, y: 205}
+        - {x: -15.5, y: 204}
+        - {x: -25.5, y: 190}
+        - {x: -40.5, y: 83}
+        - {x: -40.5, y: 61}
+        - {x: 32.5, y: 61}
+        - {x: 35.5, y: 65}
+        - {x: 46.5, y: 140}
+        - {x: 46.5, y: 190}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
