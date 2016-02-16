@@ -11,7 +11,6 @@ public class PlayerBulletController : MonoBehaviour {
 
     public void launchBullet()
     {
-        Debug.Log("Bullet Launched");
         float mainXScale = player.transform.localScale.x;
         Vector2 bulletForce;
         if (mainXScale < 0.0f)
